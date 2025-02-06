@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IqraRafiq
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently pursuing master's in data science 
+- 🌱 I’m currently pursuing a master's in data science in the Netherlands
 - 💞️ I’m looking to collaborate on Data analysis 
 - 📫 How to reach me iqraarafiq@gmail.com
 
