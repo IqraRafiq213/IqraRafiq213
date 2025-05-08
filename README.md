@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IqraRafiq
 - 👀 I am working as a Data Analyst in the Netherlands. 
-- 🌱 Aspiring Data Scientist tool! Currently working on RAG to create for a pharmaceutical company
+- 🌱 Aspiring Data Scientist tool! Currently working on RAG to create protocols for a pharmaceutical company
 - 💞️ I’m looking to collaborate with Data Scientist
 - 📫 How to reach me iqraarafiq@gmail.com
 
