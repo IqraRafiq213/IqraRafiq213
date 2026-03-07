@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IqraRafiq
-- 🌱 Aspiring Data Scientist! Currently working on RAG to create protocols for a pharmaceutical company
+- 🌱Currently working on RAG to create protocols for a pharmaceutical company
 - 💞️ I’m looking to collaborate with Data Scientist
 - 📫 How to reach me iqraarafiq@gmail.com
 
