@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @IqraRafiq
-- 🌱Currently working on RAG to automate protocols for a pharmaceutical company
-- 💞️ I’m looking to collaborate with Data Scientist
-- 📫 How to reach me iqraarafiq@gmail.com
-
-
-<!---
-IqraRafiq213/IqraRafiq213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Currently working on a RAG (Retrieval-Augmented Generation) system to automate pharmaceutical protocols
+📊 Passionate about turning raw data into actionable insights through ML and statistical modelling
+🤝 Looking to collaborate with Data Scientists and ML practitioners
+🌱 Always learning — currently deepening my knowledge of LLMs, MLOps, and production ML systems
+📍 Based in the Netherlands
