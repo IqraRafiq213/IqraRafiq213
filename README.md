@@ -1,5 +1,5 @@
-🔭 Currently working on a RAG (Retrieval-Augmented Generation) system to automate pharmaceutical protocols
-📊 Passionate about turning raw data into actionable insights through ML and statistical modelling
-🤝 Looking to collaborate with Data Scientists and ML practitioners
-🌱 Always learning — currently deepening my knowledge of LLMs, MLOps, and production ML systems
-📍 Based in the Netherlands
+-🔭 Currently working on a RAG (Retrieval-Augmented Generation) system to automate pharmaceutical protocols
+- 📊 Passionate about turning raw data into actionable insights through ML and statistical modelling
+- 🤝 Looking to collaborate with Data Scientists and ML practitioners
+-🌱 Always learning — currently deepening my knowledge of LLMs, MLOps, and production ML systems
+-📍 Based in the Netherlands
